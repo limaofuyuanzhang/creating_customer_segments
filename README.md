@@ -1,2 +1,2 @@
-# creating_customer_segments
+# customer_segments
 优达P3
